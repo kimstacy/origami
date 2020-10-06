@@ -1,0 +1,27 @@
+{
+  "name": "origami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimstacy/origami.git"
+  },
+  "author": "Stacy Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimstacy/origami/issues"
+  },
+  "homepage": "https://github.com/kimstacy/origami#readme",
+  "dependencies": {
+    "three": "^0.121.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
